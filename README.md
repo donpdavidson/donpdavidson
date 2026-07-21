@@ -14,15 +14,15 @@ My work focuses on turning useful automation into systems people can inspect, te
 
 ## Featured projects
 
-### [Agent Workflow Guardrails](../agent-workflow-guardrails)
+### [Agent Workflow Guardrails](/donpdavidson/agent-workflow-guardrails)
 
 A clean-room Python reference for strict schema validation, allowlists, approval state, explicit date evaluation, and deterministic blocked-action evidence. It includes positive and negative fixtures and performs no external action.
 
-### [Review-First GTM Workflow](../review-first-gtm-workflow)
+### [Review-First GTM Workflow](/donpdavidson/review-first-gtm-workflow)
 
 A synthetic prospect-to-draft workflow with required human review, input-bound idempotency, local audit chaining, and no delivery path.
 
-### [OpenClaw Readiness Kit](../openclaw-readiness-kit)
+### [OpenClaw Readiness Kit](/donpdavidson/openclaw-readiness-kit)
 
 A mock-only kit for deployment preflight, type-sensitive configuration drift review, acceptance evidence, and rollback planning.
 
